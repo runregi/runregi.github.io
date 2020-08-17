@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/runregi/runregi.github.io.git
+	branch = master
